@@ -1,9 +1,20 @@
+# ** Aufgabe 2: Markdown**
 
 
+1. **Werkzeuge Praktikum & Vorlesung**
+    * Monday
+    * Thursday
+2. **WeekEnd** 
+    * Saturday
+    * Sunday
+--------------------------------------
 
-  * Titel Ueberschrift
-  * Liste
-  * Tabelle
-  * Kursiv und Fett Textstyle
+|**Don't** | **Interrupt** | **Up** |
+|:------- :|:---------:|:----------|
+| *Not* | *Too* | *Late* | 
+| *Not* | *Too* | *Long* |
+| *But* | *Very*| *Short*| 
+
+--------------------------------------
 
 
