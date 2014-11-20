@@ -1,4 +1,4 @@
-# ** Aufgabe 2: Markdown**
+# **Aufgabe 2: Markdown**
 -------------------------------------
 
 1. **Werkzeuge Praktikum & Vorlesung**
